@@ -2,6 +2,5 @@
   "appName": "Aura Health Patient Portal",
   "version": "1.0.4-beta",
   "environment": "development",
-  "developerNotes": "Staging server backup available at:  http://localhost:8081/profile.jpg",
   "adminEmail": "sysadmin@aurahealth.local"
 }
